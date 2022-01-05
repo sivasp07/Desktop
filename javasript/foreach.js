@@ -1,0 +1,1 @@
+arr.forEach(function(i){console.log(i)});
